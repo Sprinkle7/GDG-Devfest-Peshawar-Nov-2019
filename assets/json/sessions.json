@@ -1,0 +1,247 @@
+{
+  "sessions": [
+    {
+      "session_id": "1",
+      "session_start_time": "08:00",
+      "session_total_time": "1 Hour",
+      "session_title": "Registration",
+      "speaker_name": "Registration Team",
+      "speaker_desc": "Get your badge, swag & start networking.",
+      "track": "hall"
+    },
+    {
+      "session_id": "2",
+      "session_start_time": "09:00",
+      "session_total_time": "10 mins",
+      "session_title": "Welcoming Everyone",
+      "speaker_name": "Host",
+      "speaker_desc": "Introduction to the day's agenda.",
+      "track": "hall"
+    },
+    {
+      "session_id": "3",
+      "session_start_time": "09:10",
+      "session_total_time": "10 mins",
+      "session_title": "Why IMSciences?",
+      "speaker_name": "Dr M. Mohsin Khan",
+      "speaker_desc": "Discussing the standing of IMSciences when it comes to equipping youth with digital skills.",
+      "track": "hall"
+    },
+    {
+      "session_id": "4",
+      "session_start_time": "09:20",
+      "session_total_time": "30 mins",
+      "session_title": "Peshawar 3.0 (Talk)",
+      "speaker_name": "Salman Saeed",
+      "speaker_desc": "Transformation of the city through technology",
+      "track": "hall"
+    },
+    {
+      "session_id": "5",
+      "session_start_time": "09:50",
+      "session_total_time": "30 mins",
+      "session_title": "Don't Build a Startup, Build a Culture (Talk)",
+      "speaker_name": "Uzair Khattak",
+      "speaker_desc": "How to kick off your startup with the right process mapping, idea’s bloom into product innovation, Tips on raising funds.",
+      "track": "hall"
+    },
+    {
+      "session_id": "6",
+      "session_start_time": "10:20",
+      "session_total_time": "40 mins",
+      "session_title": "#WomenInTech (Panel)",
+      "speaker_name": "Hira Irshad, Shahbaz Khan, Anh To, Uridah Sami, Javad Mushtaq",
+      "speaker_desc": "Talk about Women’s inclusivity in technology and the ways to achieve diversity. Share best practices and current projects.",
+      "track": "hall"
+    },
+    {
+      "session_id": "7",
+      "session_start_time": "11:00",
+      "session_total_time": "30 mins",
+      "session_title": "Angular for the Win (Talk)",
+      "speaker_name": "Sajeetharan Sinnathurai",
+      "speaker_desc": "It will be about Intro to angular, Evolution of Angular and What is new on Angular",
+      "track": "hall"
+    },
+    {
+      "session_id": "8",
+      "session_start_time": "11:30",
+      "session_total_time": "40 mins",
+      "session_title": "Building Reactive Apps with Flutter (Talk)",
+      "speaker_name": "TruongSinh Tran-Nguyen",
+      "speaker_desc": "How Flutter builds an app's UI, & learn the diffs b/w its and traditional design patterns.",
+      "track": "hall"
+    },
+    {
+      "session_id": "8",
+      "session_start_time": "11:30",
+      "session_total_time": "40 mins",
+      "session_title": "Building Reactive Apps with Flutter (Talk)",
+      "speaker_name": "TruongSinh Tran-Nguyen",
+      "speaker_desc": "How Flutter builds an app's UI, & learn the diffs b/w its and traditional design patterns.",
+      "track": "hall"
+    },
+    {
+      "session_id": "9",
+      "session_start_time": "12:10",
+      "session_total_time": "30 mins",
+      "session_title": "4IR in Peshawar (Panel)",
+      "speaker_name": "Saad Hamid, Faisal Khan, TruongSinh Tran, Asif Khan, Dr. Muftooh",
+      "speaker_desc": "This panel will have experts on topics of the 4IR. They’ll discuss how techies can work on these for the good of their city.",
+      "track": "hall"
+    },
+    {
+      "session_id": "10",
+      "session_start_time": "12:40",
+      "session_total_time": "30 mins",
+      "session_title": "Kahoot Game",
+      "speaker_name": "Salman Saeed",
+      "speaker_desc": "Ice Breaker activity.",
+      "track": "hall"
+    },
+    {
+      "session_id": "11",
+      "session_start_time": "13:00",
+      "session_total_time": "1 hour 30 mins",
+      "session_title": "Lunch Break",
+      "speaker_name": "--",
+      "speaker_desc": "Lunch Break",
+      "track": "hall"
+    },
+    {
+      "session_id": "12",
+      "session_start_time": "14:30",
+      "session_total_time": "30 mins",
+      "session_title": "Crowdsource by Google (Talk)",
+      "speaker_name": "Saad Hamid",
+      "speaker_desc": "Introducing Crowdsource product to the audience & its importance to the community.",
+      "track": "hall"
+    },
+    {
+      "session_id": "13",
+      "session_start_time": "15:00",
+      "session_total_time": "40 mins",
+      "session_title": "Innovation Ecosystems (Panel)",
+      "speaker_name": "Uzair Khattak, Murtaza Zaidi, Qazi Waheed, Javad Mushtaq, Sanan Sethi",
+      "speaker_desc": "Discussion about the innovation ecosystems in Pakistan and outside Pakistan. Learnings and Collabs.",
+      "track": "hall"
+    },
+    {
+      "session_id": "14",
+      "session_start_time": "15:40",
+      "session_total_time": "30 mins",
+      "session_title": "It’s the Climb (Talk)",
+      "speaker_name": "Javad Mushtaq",
+      "speaker_desc": "It ain’t about how fast I get there, or about what’s waitin’ on the other side, it’s the climb",
+      "track": "hall"
+    },
+    {
+      "session_id": "15",
+      "session_start_time": "16:10",
+      "session_total_time": "30 mins",
+      "session_title": "Achieving Agile Mindset (Talk)",
+      "speaker_name": "Anh To",
+      "speaker_desc": "How we can bring the Agile mindset to dev and use Agile methods to transform our apps",
+      "track": "hall"
+    },
+    {
+      "session_id": "16",
+      "session_start_time": "16:40",
+      "session_total_time": "30 mins",
+      "session_title": "Google Tech in Govt Initiatives (Talk)",
+      "speaker_name": "Akif Khan (PMRU)",
+      "speaker_desc": "How diff Google technologies has helped in citizen portal, merabacha & KP inspection",
+      "track": "hall"
+    },
+    {
+      "session_id": "17",
+      "session_start_time": "17:10",
+      "session_total_time": "30 mins",
+      "session_title": "Surprise Entertainment",
+      "speaker_name": "Pashto Band",
+      "speaker_desc": "Attan/Dance/Music",
+      "track": "hall"
+    },
+    {
+      "session_id": "18",
+      "session_start_time": "17:40",
+      "session_total_time": "20 mins",
+      "session_title": "Closing Talk",
+      "speaker_name": "GDG & WTM Peshawar Team",
+      "speaker_desc": "Thanking sponsors, partners and the team.",
+      "track": "hall"
+    },
+    {
+      "session_id": "19",
+      "session_start_time": "18:00",
+      "session_total_time": "20 mins",
+      "session_title": "Happy Hour",
+      "speaker_name": "--",
+      "speaker_desc": "Closing Networking",
+      "track": "hall"
+    },
+    {
+      "session_id": "20",
+      "session_start_time": "10:30",
+      "session_total_time": "1 hour 30 mins",
+      "session_title": "Apps with Kotlin (Codelab)",
+      "speaker_name": "Atiq Ur Rehman",
+      "speaker_desc": "This will be a codelab by on developing apps with Kotlin and attendees will also build their first app with Kotlin in this 2 hr codelab.",
+      "track": "codelab"
+    },
+    {
+      "session_id": "21",
+      "session_start_time": "12:00",
+      "session_total_time": "1 hour",
+      "session_title": "Angular - Zero to Hero",
+      "speaker_name": "Sajeetharan Sinnathurai",
+      "speaker_desc": "Workshop on how to get started with Angular and learn about the newest happenings in Angular",
+      "track": "codelab"
+    },
+    {
+      "session_id": "22",
+      "session_start_time": "14:00",
+      "session_total_time": "2 hours",
+      "session_title": "#WiML (Codelab)",
+      "speaker_name": "Uridah Sami (ML Engineer)",
+      "speaker_desc": "#WiML (Women in Machine Learning) will be a codelab on TensorFlow by a female trainer who is an ML Engineer.",
+      "track": "codelab"
+    },
+    {
+      "session_id": "23",
+      "session_start_time": "11:00",
+      "session_total_time": "1 hour",
+      "session_title": "Intro to Golang",
+      "speaker_name": "Jawad Sadiq",
+      "speaker_desc": "Workshop about Golang as the new backend king.",
+      "track": "workshop"
+    },
+    {
+      "session_id": "24",
+      "session_start_time": "12:00",
+      "session_total_time": "1 hour",
+      "session_title": "#IamRemarkable",
+      "speaker_name": "Annie Gul (WTM Ambassador)",
+      "speaker_desc": "#IamRemarkable is a Google initiative empowering women and underrepresented groups to celebrate their achievements in the workplace and beyond.",
+      "track": "workshop"
+    },
+    {
+      "session_id": "25",
+      "session_start_time": "14:00",
+      "session_total_time": "1 hour",
+      "session_title": "Firebase for Marketing",
+      "speaker_name": "Khurria Zafar",
+      "speaker_desc": "Using Firebase to gain a deep understanding of app engagement across devices to create better campaigns.",
+      "track": "workshop"
+    },
+    {
+      "session_id": "26",
+      "session_start_time": "15:00",
+      "session_total_time": "1 hour",
+      "session_title": "TensorFlow Lite",
+      "speaker_name": "TruongSinh Tran-Nguyen",
+      "speaker_desc": "A workshop on how to deploy ML on mobile and embedded systems.",
+      "track": "workshop"
+    }
+  ]
+}

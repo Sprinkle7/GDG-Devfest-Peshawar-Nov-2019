@@ -1,0 +1,22 @@
+{
+  "teams": [
+    {
+      "name": "Salman Saeed",
+      "desc": "Manager",
+      "contribution": "GDG Peshawar",
+      "image": "assets/salmansaeed.jpg",
+      "instagram_url": "https://instagram.com/salluhee",
+      "twitter_url":"https://twitter.com/salluhee" ,
+      "fb_url": "https://facebook.com/salluhee"
+    },
+    {
+      "name": "Kashif Taj",
+      "desc": "Manager",
+      "contribution": "GDG Peshawar",
+      "image": "assets/kashiftaj.jpg",
+      "instagram_url": "https://instagram.com/kaxhiftaj",
+      "twitter_url":"https://twitter.com/kaxhiftaj" ,
+      "fb_url": "https://facebook.com/kaxhiftaj"
+    }
+  ]
+}

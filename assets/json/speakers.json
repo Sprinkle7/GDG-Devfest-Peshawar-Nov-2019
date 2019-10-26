@@ -1,0 +1,158 @@
+{
+  "speakers": [
+    {
+      "speaker_image": "assets/javad.jpg",
+      "speaker_name": "Javad Mushtaq",
+      "speaker_desc": "JM Ventures",
+      "speaker_session": "#WomenInTech (Panel)",
+      "linkedin_url": "https://www.linkedin.com/in/javadmushtaq/"
+    },
+    {
+      "speaker_image": "assets/sajeet.jpg",
+      "speaker_name": "Sajeetharan Sinn",
+      "speaker_desc": "GDE",
+      "speaker_session": "Angular for the Win (Talk) & Angular - Zero to Hero",
+      "linkedin_url": "https://www.linkedin.com/in/sajeetharan/"
+    },
+    {
+      "speaker_image": "assets/asif.jpeg",
+      "speaker_name": "Asif Khan",
+      "speaker_desc": "CoinIgniter",
+      "speaker_session": "4IR in Peshawar (Panel)",
+      "linkedin_url": "https://www.linkedin.com/in/aasifkhan/"
+    },
+    {
+      "speaker_image": "assets/tru.jpg",
+      "speaker_name": "Truong Sinh",
+      "speaker_desc": "Inspectorio",
+      "speaker_session": "A workshop on how to deploy ML on mobile and embedded systems & 4IR in Peshawar (Panel)",
+      "linkedin_url": "https://www.linkedin.com/in/truongsinh/"
+    },
+    {
+      "speaker_image": "assets/anhto.jpg",
+      "speaker_name": "Anh To",
+      "speaker_desc": "Inspectorio",
+      "speaker_session": "Achieving Agile Mindset (Talk)",
+      "linkedin_url": "https://www.linkedin.com/in/toanh/"
+    },
+    {
+      "speaker_image": "assets/female.png",
+      "speaker_name": "Uridah Sami",
+      "speaker_desc": "Red Buffer",
+      "speaker_session": "#WiML (Codelab)",
+      "linkedin_url": "https://www.linkedin.com/in/uridahsami/"
+    },
+    {
+      "speaker_image": "assets/mufatah.jpeg",
+      "speaker_name": "Dr. Muftooh Ur Rehman",
+      "speaker_desc": "CECOS",
+      "speaker_session": "4IR in Peshawar (Panel)",
+      "linkedin_url": "https://www.linkedin.com/in/dr-muftooh-ur-rehman-siddiqi-ceng-mimeche-66313215/"
+    },
+    {
+      "speaker_image": "assets/farah.png",
+      "speaker_name": "Khurria Zafar",
+      "speaker_desc": "Codematics",
+      "speaker_session": "Firebase for Marketing ",
+      "linkedin_url": "https://www.linkedin.com/in/khurriazafar/"
+    },
+    {
+      "speaker_image": "assets/waheed.jpg",
+      "speaker_name": "Qazi Waheed Uz Zaman",
+      "speaker_desc": "IM Sciences",
+      "speaker_session": "Innovation Ecosystems (Panel)",
+      "linkedin_url": "https://www.linkedin.com/in/qazi-waheed-uz-zaman-0a19b421/"
+    },
+    {
+      "speaker_image": "assets/faisal.png",
+      "speaker_name": "Faisal Khan",
+      "speaker_desc": "Averos",
+      "speaker_session": "4IR in Peshawar (Panel)",
+      "linkedin_url": "https://www.linkedin.com/in/ffkhan/"
+    },
+    {
+      "speaker_image": "assets/female.png",
+      "speaker_name": "Hira Irshad",
+      "speaker_desc": "---",
+      "speaker_session": "#WomenInTech (Panel)",
+      "linkedin_url": ""
+    },
+    {
+      "speaker_image": "assets/shahbaz.jpg",
+      "speaker_name": "Dr. Shahbaz Khan",
+      "speaker_desc": "KPITB",
+      "speaker_session": "#WomenInTech (Panel)",
+      "linkedin_url": "https://www.linkedin.com/in/shabazkn/"
+    },
+    {
+      "speaker_image": "assets/gul.png",
+      "speaker_name": "Annie Gul",
+      "speaker_desc": "Codematics",
+      "speaker_session": "#IamRemarkable",
+      "linkedin_url": "https://www.linkedin.com/in/anniegul/"
+    },
+    {
+      "speaker_image": "assets/male.png",
+      "speaker_name": "Dr M. Mohsin Khan",
+      "speaker_desc": "---",
+      "speaker_session": "Why IMSciences?",
+      "linkedin_url": ""
+    },
+    {
+      "speaker_image": "assets/uzair.png",
+      "speaker_name": "Muhammad Uzair",
+      "speaker_desc": "Blimp",
+      "speaker_session": "Don't Build a Startup, Build a Culture (Talk)",
+      "linkedin_url": "https://www.linkedin.com/in/uzairktk/"
+    },
+    {
+      "speaker_image": "assets/saad.jpg",
+      "speaker_name": "Saad Hamid",
+      "speaker_desc": "Google",
+      "speaker_session": "4IR in Peshawar (Panel) & Crowdsource by Google (Talk)",
+      "linkedin_url": "https://www.linkedin.com/in/saadhamid/"
+    },
+    {
+      "speaker_image": "assets/murtazaz.jpg",
+      "speaker_name": "Murtaza Zaidi",
+      "speaker_desc": "NIC Peshawar",
+      "speaker_session": "Innovation Ecosystems (Panel)",
+      "linkedin_url": "https://www.linkedin.com/in/murtaza-zaidi-6b84ab5/"
+    },
+    {
+      "speaker_image": "assets/sanan.jpeg",
+      "speaker_name": "Sanan Sethi",
+      "speaker_desc": "PMEI",
+      "speaker_session": "Innovation Ecosystems (Panel)",
+      "linkedin_url": "https://www.linkedin.com/in/sanan-sethi-749b4918/"
+    },
+    {
+      "speaker_image": "assets/akif.jpg",
+      "speaker_name": "Akif Khan",
+      "speaker_desc": "PMRU",
+      "speaker_session": "Google Tech in Govt Initiatives (Talk)",
+      "linkedin_url": "https://www.linkedin.com/in/akifonline/"
+    },
+    {
+      "speaker_image": "assets/male.png",
+      "speaker_name": "Atiq Ur Rehman",
+      "speaker_desc": "Kotlin",
+      "speaker_session": "Apps with Kotlin (Codelab)",
+      "linkedin_url": "https://www.linkedin.com/in/themaxcoder/"
+    },
+    {
+      "speaker_image": "assets/salmansaeed.jpg",
+      "speaker_name": "Salman Saeed",
+      "speaker_desc": "Nucleus",
+      "speaker_session": "Peshawar 3.0 (Talk) & Kahoot Game",
+      "linkedin_url": "https://www.linkedin.com/in/salluhee/"
+    },
+    {
+      "speaker_image": "assets/kashiftaj.jpg",
+      "speaker_name": "Kashif Taj",
+      "speaker_desc": "Tech Ease Solutions",
+      "speaker_session": "----",
+      "linkedin_url": ""
+    }
+  ]
+}
