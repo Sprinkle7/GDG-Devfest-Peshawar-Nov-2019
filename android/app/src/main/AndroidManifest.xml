@@ -1,16 +1,20 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_devfest">
+    package="com.gdgpeshawar.devfest">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
          In most cases you can leave this as-is, but you if you want to provide
          additional functionality it is fine to subclass or reimplement
          FlutterApplication and put your custom class here. -->
+    <uses-permission android:name="android.permission.INTERNET"
+        android:maxSdkVersion="18" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"
+        android:maxSdkVersion="18" />
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="DevFest Peshawar"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyBbVhNgB0A4LxV1dFZHiUjSo43swxyGYRY"/>
+               android:value="AIzaSyCEgw6VziQc4w5eqz05OICqoz2ZnlVwgIA"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
@@ -31,5 +35,6 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
     </application>
 </manifest>

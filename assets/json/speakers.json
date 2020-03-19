@@ -36,7 +36,7 @@
       "linkedin_url": "https://www.linkedin.com/in/toanh/"
     },
     {
-      "speaker_image": "assets/female.png",
+      "speaker_image": "assets/uridah.png",
       "speaker_name": "Uridah Sami",
       "speaker_desc": "Red Buffer",
       "speaker_session": "#WiML (Codelab)",
@@ -71,9 +71,9 @@
       "linkedin_url": "https://www.linkedin.com/in/ffkhan/"
     },
     {
-      "speaker_image": "assets/female.png",
+      "speaker_image": "assets/hira.png",
       "speaker_name": "Hira Irshad",
-      "speaker_desc": "---",
+      "speaker_desc": "Aprus",
       "speaker_session": "#WomenInTech (Panel)",
       "linkedin_url": ""
     },
@@ -92,9 +92,9 @@
       "linkedin_url": "https://www.linkedin.com/in/anniegul/"
     },
     {
-      "speaker_image": "assets/male.png",
+      "speaker_image": "assets/mohsin.png",
       "speaker_name": "Dr M. Mohsin Khan",
-      "speaker_desc": "---",
+      "speaker_desc": "IM Sciences",
       "speaker_session": "Why IMSciences?",
       "linkedin_url": ""
     },
@@ -127,6 +127,13 @@
       "linkedin_url": "https://www.linkedin.com/in/sanan-sethi-749b4918/"
     },
     {
+      "speaker_image": "assets/sadiq.jpg",
+      "speaker_name": "JAWAD SADIQ",
+      "speaker_desc": "KeepTruckin",
+      "speaker_session": "Intro to Golang",
+      "linkedin_url": "https://www.linkedin.com/in/jaysadiq/"
+    },
+    {
       "speaker_image": "assets/akif.jpg",
       "speaker_name": "Akif Khan",
       "speaker_desc": "PMRU",
@@ -134,11 +141,18 @@
       "linkedin_url": "https://www.linkedin.com/in/akifonline/"
     },
     {
-      "speaker_image": "assets/male.png",
+      "speaker_image": "assets/atiq.png",
       "speaker_name": "Atiq Ur Rehman",
       "speaker_desc": "Kotlin",
       "speaker_session": "Apps with Kotlin (Codelab)",
       "linkedin_url": "https://www.linkedin.com/in/themaxcoder/"
+    },
+    {
+      "speaker_image": "assets/shafeeq.jpeg",
+      "speaker_name": "Shafeeq Gigyani",
+      "speaker_desc": "The Enlightlab",
+      "speaker_session": "HeriTech of Peshawar (Talk)",
+      "linkedin_url": "https://www.linkedin.com/in/shafeeqi/"
     },
     {
       "speaker_image": "assets/salmansaeed.jpg",
@@ -151,7 +165,7 @@
       "speaker_image": "assets/kashiftaj.jpg",
       "speaker_name": "Kashif Taj",
       "speaker_desc": "Tech Ease Solutions",
-      "speaker_session": "----",
+      "speaker_session": "Closing Talk",
       "linkedin_url": ""
     }
   ]

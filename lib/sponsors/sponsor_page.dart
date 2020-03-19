@@ -1,4 +1,3 @@
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_devfest/universal/dev_scaffold.dart';
 
@@ -118,17 +117,6 @@ class SponsorImage extends StatelessWidget {
   const SponsorImage({Key key, this.imgUrl}) : super(key: key);
   @override
   Widget build(BuildContext context) {
-    return Card(
-      elevation: 0.0,
-      child: Padding(
-        padding: const EdgeInsets.all(12.0),
-        child: CachedNetworkImage(
-          imageUrl: imgUrl,
-          height: 200.0,
-          width: 200.0,
-          fit: BoxFit.contain,
-        ),
-      ),
-    );
+    return Card();
   }
 }

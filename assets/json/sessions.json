@@ -31,7 +31,7 @@
       "session_id": "4",
       "session_start_time": "09:20",
       "session_total_time": "30 mins",
-      "session_title": "Peshawar 3.0 (Talk)",
+      "session_title": "HeriTech Peshawar",
       "speaker_name": "Salman Saeed",
       "speaker_desc": "Transformation of the city through technology",
       "track": "hall"
@@ -61,15 +61,6 @@
       "session_title": "Angular for the Win (Talk)",
       "speaker_name": "Sajeetharan Sinnathurai",
       "speaker_desc": "It will be about Intro to angular, Evolution of Angular and What is new on Angular",
-      "track": "hall"
-    },
-    {
-      "session_id": "8",
-      "session_start_time": "11:30",
-      "session_total_time": "40 mins",
-      "session_title": "Building Reactive Apps with Flutter (Talk)",
-      "speaker_name": "TruongSinh Tran-Nguyen",
-      "speaker_desc": "How Flutter builds an app's UI, & learn the diffs b/w its and traditional design patterns.",
       "track": "hall"
     },
     {

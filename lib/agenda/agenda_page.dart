@@ -7,7 +7,6 @@ import 'package:flutter_devfest/agenda/web_screen.dart';
 import 'package:flutter_devfest/home/index.dart';
 import 'package:flutter_devfest/universal/dev_scaffold.dart';
 import 'package:flutter_devfest/utils/tools.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class AgendaPage extends StatelessWidget {
   static const String routeName = "/agenda";
@@ -28,16 +27,16 @@ class AgendaPage extends StatelessWidget {
           isScrollable: false,
           tabs: <Widget>[
             Tab(
-              child: Text("Main Hall", style: TextStyle(fontWeight:FontWeight
+              child: Text("Main Stage", style: TextStyle(fontWeight:FontWeight
                       .bold)),
             ),
             Tab(
-              child: Text("CodeLab Room", style: TextStyle(fontWeight:
+              child: Text("Payoneer Codelab", style: TextStyle(fontWeight:
               FontWeight.bold),),
 
             ),
             Tab(
-              child: Text("Workshop Room",style: TextStyle(fontWeight:
+              child: Text("BIC Room",style: TextStyle(fontWeight:
               FontWeight.bold),),
 
             )
